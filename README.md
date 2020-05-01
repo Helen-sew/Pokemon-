@@ -1,18 +1,35 @@
+## Pokemon Tomagotchi Game 
+
 ## Table of contents
+* [Project Demo](#project-demo)
+* [Project Scope and Approach](#project-scope-and-Approach)
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
 
-## General info
-* Title : Pokemon Tomagotchi Game 
-* How to Play :-
+
+
+## Project Demo
+
+https://github.com/Helen-sew/Pokemon-.git
+
+## Project Scope and Approach 
+
+The scope of the project is to fetch data image from PokeAPI website.  
+i.e. "https://pokeapi.co/api/v2/pokemon/1/";
+
+To populate the pokemon image into the DOM to develope the game. 
+
+
+## General Information 
+
 * To create a "living" pokemon pet using HTML, CSS and JavaScript/jQuery to interact with the pet.
 * To start the game with Hunger, Boredom, Sleepiness metrics of 10. 
-* Descrease your pet's Hunger, Sleepiness and Sleepiness metrics on an interval set. 
-* Increase the metrics by clicking the feed, play and sleep buttons to feed your pet, turn off the light and play with your pet. 
-* The pet should die if Hunger, Boredom, Sleepines hits 0.
-* Increase your pet's age every x minutes. 
+* The pet's Hunger, Boredom and Sleepiness metrics decreasing on every x minutes  
+* To click on the Hunger, Boredom and Sleepiness buttons to feed, play and turn off the light to keep your pet alive and happy. 
+* Your pet will die/game over if any of the Hunger, Boredom and Sleepines metric hits 0.
+* Your pet's age increase at every x minutes. 
 * Your pet grow at every x minutes. 
+* Your pet multiple at every x minutes. 
 
 
 ## Technologies
@@ -22,12 +39,12 @@ Project is created with:
 * Bootstrap 4.4.1
 * JavaScript 
 * JQuery
-	
-## Setup
-To run this project, install it locally using npm:
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+
+
+	
+
+
+
+
+
