@@ -11,6 +11,7 @@
 ## Project Demo
 
 https://github.com/Helen-sew/Pokemon-.git
+https://codepen.io/Helensew/pen/XWmepQy
 
 ## Project Scope and Approach 
 
